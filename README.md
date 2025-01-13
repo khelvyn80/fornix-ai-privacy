@@ -1,10 +1,10 @@
 
 
-Privacy Policy for Fornix AI Labs
+Privacy Policy for Fornix Labs
 
 Effective Date: 22nd October 2024
 
-At Fornix AI Labs, we are committed to safeguarding the privacy and security of our users. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our platform. By using Fornix AI Labs, you agree to the terms of this Privacy Policy.
+At Fornix Labs, we are committed to safeguarding the privacy and security of our users. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our platform. By using Fornix Labs, you agree to the terms of this Privacy Policy.
 
  1. Information We Collect
 
@@ -37,7 +37,7 @@ We do not sell or rent your personal information. We may share your information 
 
 With Healthcare Providers: Information you provide, including transcriptions of voice recordings, may be shared with your designated healthcare provider to facilitate treatment.
 
- Service Providers: We may share your information with trusted third-party vendors or service providers who help us operate our platform, such as AI transcription services and data storage providers. These parties are obligated to protect your information and use it only to provide services to Fornix AI Labs.
+ Service Providers: We may share your information with trusted third-party vendors or service providers who help us operate our platform, such as AI transcription services and data storage providers. These parties are obligated to protect your information and use it only to provide services to Fornix Labs.
 
 
  4. Data Security
@@ -63,7 +63,7 @@ Deletion: You may request the deletion of your personal information, subject to 
 
  7. Third-Party Links
 
-Our platform may contain links to third-party websites or services. We are not responsible for the privacy practices or the content of these third-party sites. We encourage you to review the privacy policies of any websites you visit through links from Fornix AI Labs.
+Our platform may contain links to third-party websites or services. We are not responsible for the privacy practices or the content of these third-party sites. We encourage you to review the privacy policies of any websites you visit through links from Fornix Labs.
 
  8. Changes to This Privacy Policy
 
@@ -73,6 +73,6 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 If you have any questions or concerns about this Privacy Policy or how we handle your personal information, please contact us at:
 
-Fornix AI Labs  
-fornixaiglobal@gmail.com
+Fornix Labs  
+admin@fornixlabs.com
 Korle-Bu 
